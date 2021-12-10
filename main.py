@@ -5,7 +5,6 @@ import threading
 import time
 from multiprocessing import Process, Queue
 
-run = 1
 pre_check = 2
 
 path_driver = "C:/chromedriver/chromedriver"
